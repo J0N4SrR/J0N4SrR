@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @J0N4SrR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, sou o Jonas!
 
-<!---
-J0N4SrR/J0N4SrR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 Biomédico com mestrado em Ciências da Saúde
+📚 Graduando em Análise e Desenvolvimento de Sistemas
+🎵 Amante da música
+🎥 Apaixonado por filmes
+💭 Entusiasta da filosofia
+📓 Sempre aberto a novas oportunidades e aprendizado constante.
+
+
+
+🌍 Atualmente, estou explorando o mundo da programação e desenvolvimento de software enquanto continuo minha jornada na área de saúde.
+
+
+
+
