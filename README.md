@@ -1,7 +1,3 @@
-<style>
-  p { line-height: 1.1;}
-</style>
-
 # 🔬 Jonas Ribeiro da Rosa
 <div>
 
@@ -34,7 +30,24 @@
 </div>
 
 <div>
-<a href="https://github.com/J0N4SrR">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0N4SrR&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+![Snake animation](https://github.com/J0N4SrR/J0N4SrR/blob/output/github-contribution-grid-snake.svg)
+
+## Contatos:
+
+<div>
+
+<a href="https://www.instagram.com/jonasr.r/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
+        
+          
