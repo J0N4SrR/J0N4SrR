@@ -6,7 +6,7 @@
 
 <div align="left">
 
-### Bem vindo ao meu perfil GitHub <img src="https://www.emojiall.com/images/animations/joypixels/128px/waving_hand.gif&ct=s" height="30px"> </h1>
+### Bem vindo ao meu perfil GitHub <img src="https://www.emojiall.com/images/animations/joypixels/128px/waving_hand.gif" height="30px"> </h1>
 
 <p> <img src="https://media3.giphy.com/media/MExJwe6KhXhBpKaysi/giphy.gif?cid=ecf05e478nxn4gz1xmujb6g4w1kfz5a4zllwrecpwz25wp15&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="20px"> </h1> Olá, eu sou um Biomédico com mestrado em Ciências da Saúde</p>
 <p> 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas</p>
