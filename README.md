@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/J0N4SrR/728e5b9c27c94cb5eef51b09c441034f/raw/a74ab6b8c029acec373ddc7befc94eb725256073/githubcard.svg"/>
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/J0N4SrR/728e5b9c27c94cb5eef51b09c441034f/raw/a74ab6b8c029acec373ddc7befc94eb725256073/githubcard.svg"/>
 
 
 
@@ -6,7 +6,7 @@
 
 <div align="left">
 
-### Bem vindo ao meu perfil GitHub <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> </h1>
+### Bem vindo ao meu perfil GitHub <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30px"> </h1>
 
 <p> <img src="https://media3.giphy.com/media/MExJwe6KhXhBpKaysi/giphy.gif?cid=ecf05e478nxn4gz1xmujb6g4w1kfz5a4zllwrecpwz25wp15&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="20px"> </h1> Olá, eu sou um Biomédico com mestrado em Ciências da Saúde</p>
 <p> 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas</p>
