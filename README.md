@@ -37,7 +37,7 @@
 
 </p>
 
-<p align = "center" > <img src="https://media.tenor.com/b6vXi-LxP50AAAAd/oakley-sciencedog.gif" height="300px"> </p>
+<p align = "center" > <img src="https://media.tenor.com/b6vXi-LxP50AAAAd/oakley-sciencedog.gif"> </p>
 
 <div>
 
