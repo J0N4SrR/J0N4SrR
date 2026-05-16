@@ -1,8 +1,12 @@
+<div align="center">
+  <img align="right" height="350em" src="https://raw.githubusercontent.com/gist/J0N4SrR/728e5b9c27c94cb5eef51b09c441034f/raw/a74ab6b8c029acec373ddc7befc94eb725256073/githubcard.svg"/>
+</div>
+
 # Jonas Ribeiro da Rosa 💻🧬
 
 <div align="left">
 
-### Teconologia, Engenharia de Software e Dados Aplicados 🚀
+### Tecnologia, Engenharia de Software e Dados Aplicados 🚀
 
 Olá! Sou **Engenheiro de Software** focado no desenvolvimento de sistemas corporativos de alta integridade e pipelines de dados complexos. Meu trabalho une o rigor da arquitetura de software backend com o poder analítico da ciência de dados.
 
@@ -60,7 +64,7 @@ Minha base científica atua como um acelerador de domínio para HealthTechs e si
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
 ---
@@ -78,10 +82,8 @@ Minha base científica atua como um acelerador de domínio para HealthTechs e si
 ## 📊 Estatísticas de Código
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0N4SrR&layout=compact&langs_count=7&theme=radical" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J0N4SrR&layout=compact&langs_count=7&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
 </div>
 
 ---
