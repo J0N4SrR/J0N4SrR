@@ -77,10 +77,15 @@ Minha base científica atua como um acelerador de domínio para HealthTechs e si
 
 ## 📊 Estatísticas de Código
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J0N4SrR&layout=compact&langs_count=7&theme=radical" height="180" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0N4SrR&layout=compact&theme=radical"/>
+
+</div>
 
 ---
 
