@@ -65,26 +65,13 @@ Minha base científica atua como um acelerador de domínio para HealthTechs e si
 
 ---
 
-<p align="center">
-  <b>Quando o seu código/experimento finalmente funciona conforme o esperado... It's science, baby! 😎🔬💡</b>
+<div>
+<div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0N4SrR&layout=compact&langs_count=7&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/>
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/b6vXi-LxP50AAAAd/oakley-sciencedog.gif" alt="Science Dog" width="60%" />
-</p>
-
----
-
-## 📊 Estatísticas de Código
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=J0N4SrR&show_icons=true&theme=dracula"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0N4SrR&layout=compact&theme=radical"/>
-
+</div>
 </div>
 
 ---
