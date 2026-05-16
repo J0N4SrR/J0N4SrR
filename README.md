@@ -1,7 +1,3 @@
-<div align="center">
-  <img align="right" height="350em" src="https://raw.githubusercontent.com/gist/J0N4SrR/728e5b9c27c94cb5eef51b09c441034f/raw/a74ab6b8c029acec373ddc7befc94eb725256073/githubcard.svg"/>
-</div>
-
 # Jonas Ribeiro da Rosa 💻🧬
 
 <div align="left">
